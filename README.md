@@ -29,8 +29,8 @@ It will ask for a website URL, perform the scan, and generate a report in report
 This tool has been developed for educational and research purposes only. We do not recommend to use it to scan websites without proper authorization. The developer is not responsible for any such misuse.
 
 ## Author
-•	Group Members – Deepanjan Ganguly, Ayush Dutta, Pabitra Debnath
-•	M.Sc. In IT(Cybersecurity)
+### Group Members – Deepanjan Ganguly, Ayush Dutta, Pabitra Debnath
+### M.Sc. In IT(Cybersecurity)
 
 
 
